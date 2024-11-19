@@ -13,7 +13,7 @@ from millify import millify
 import pydeck as pdk
 
 
-st.title("Panel de control de vuelos")
+st.title("Panel de control de vuelos - MODIFICADO")
 
 # Función que carga los datos, y los guarda en caché para no tener que cargarlos cada vez que se recargue la página
 #@st.cache_data
